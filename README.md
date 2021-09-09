@@ -1,6 +1,6 @@
 # Úvod
 
-Cílem práce bylo navrhnout aplikace, které demonstrují sílu strojového učení pro tvorbu umělé inteligence ve videohrách. K řešení této problematiky je použita sada nástrojů ML-Agents, která umožňuje tvorbu inteligentních agentů v enginu Unity. Jednotlivé demonstrační aplikace jsou zaměřeny na různé scénáře využití této sady. Pro trénování je použito zpětnovazební a imitační učení.
+Cílem [práce] (https://www.fit.vut.cz/study/thesis/24108/.cs?year=2020&stud=Vacul%C3%ADk) bylo navrhnout aplikace, které demonstrují sílu strojového učení pro tvorbu umělé inteligence ve videohrách. K řešení této problematiky je použita sada nástrojů ML-Agents, která umožňuje tvorbu inteligentních agentů v enginu Unity. Jednotlivé demonstrační aplikace jsou zaměřeny na různé scénáře využití této sady. Pro trénování je použito zpětnovazební a imitační učení.
 
 # Aplikace
 

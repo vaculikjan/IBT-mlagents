@@ -1,3 +1,11 @@
+# Úvod
+
+Cílem práce bylo navrhnout aplikace, které demonstrují sílu strojového učení pro tvorbu umělé inteligence ve videohrách. K řešení této problematiky je použita sada nástrojů ML-Agents, která umožňuje tvorbu inteligentních agentů v enginu Unity. Jednotlivé demonstrační aplikace jsou zaměřeny na různé scénáře využití této sady. Pro trénování je použito zpětnovazební a imitační učení.
+
+# Aplikace
+
+[1. Fighter](https://github.com/vaculikjan/IBT-fighter)
+
 # Návod na spuštění
 
 Pro spuštění jednotlivých aplikací s již vytrénovnaou neuronovou sítí, je nutné mít nainstalované *Unity* (funknčonst zajištěna na verzi **2019.4.17f1**). 
